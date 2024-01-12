@@ -1,0 +1,124 @@
+Osumare Digital Solutions landing page
+
+
+# HEADER
+
+
+Menu
+Home
+About
+Services
+Work
+Blog
+Career
+
+
+
+Our Services
+Automotive SEO
+PPC Precision
+Content Excellence
+Web Design
+End-To-End Solutions
+Data-Driven Insights
+Social Acceleration
+Video Marketing
+
+
+Contact
+Hello@osumare.in
++91 8459876226
+
+
+
+
+
+
+
+
+# FEATURES
+
+Our team is made up of all different backgrounds from all over the world.
+
+Each time a digital asset is purchased or sold, Sequoir donates a percentage of the fees back into the development of the asset through its charitable foundation.
+
+alt = feature banner
+
+Cover your everyday expenses
+
+Inspiration comes in many ways and you like to save everything from. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+alt = feature banner
+
+We offer low fees that are transparent
+
+Each time a digital asset is purchased or sold, Sequoir donates a percentage of the fees back into the development of the asset through its charitable foundation.
+
+
+
+# CONTACT
+
+Let’s scale your brand, together
+
+alt = contact banner
+
+Name *
+placeholder = Type Name
+
+Phone
+placeholder = Type Phone Number
+
+Email Address *
+placeholder = Type Email Address
+
+Message *
+placeholder = Type Description
+
+Send Message
+
+
+
+# FOOTER
+
+alt = Funel logo
+
+Follow us on
+
+href = https://www.linkedin.com/company/osumare
+<ion-icon name="logo-linkedin"></ion-icon>
+
+href = https://www.instagram.com/osumaremarketingsolutions?igsh=NDJnOHZ6b3ZxbnVv
+<ion-icon name="logo-instagram"></ion-icon>
+
+href = https://wa.me/8459876226" class="social-link
+<ion-icon name="logo-whatsapp"></ion-icon>
+
+href = https://www.facebook.com/Osumare.Solutions
+<ion-icon name="logo-facebook"></ion-icon>
+
+Menu
+Home
+About
+Services
+Work
+Blog
+Career
+Relevent
+
+Our Services
+Automotive SEO
+PPC Precision
+Content Excellence
+Web Design
+End-To-End Solutions
+Data-Driven Insights
+Social Acceleration
+Video Marketing
+
+Contact
+Hello@osumare.in
++91 8459876226
+
+
+
+
